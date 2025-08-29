@@ -1,7 +1,7 @@
 
 # HelmNet SafeGuard — Computer Vision for PPE Compliance
 
-## Summary (for Portfolio)
+## Summary
 I built a deep‑learning system to detect industrial workers **with vs without helmets** from CCTV streams. Four models
 (Simple CNN and three VGG‑16 variants) all achieved **100%** metrics; we selected **VGG‑16 + FFNN with Data Augmentation**
 for robustness to lighting, camera angles, and occlusions.
